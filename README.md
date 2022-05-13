@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Japanese.
+Sorry, English uses a translation tool.
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/fagai/posts.svg)](http://qiita.com/fagai)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/fagai/contributions.svg)](http://qiita.com/fagai)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/fagai/followers.svg)](http://qiita.com/fagai)
